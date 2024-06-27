@@ -1,0 +1,26 @@
+{
+  "last_updated": "2024-06-26T14:16:16+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7697",
+      "time": "2024-06-26T14:16:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7697",
+      "text": "Rework Shifting Process for \"Complete\" stage",
+      "turnaround_time": 23869
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7697",
+      "time": "2024-06-26T14:16:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7697",
+      "text": "Rework Shifting Process for \"Complete\" stage",
+      "collaborated_with": [
+        "nihal467",
+        "khavinshankar"
+      ]
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

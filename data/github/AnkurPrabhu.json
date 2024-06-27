@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-06-26T13:07:52+00:00",
+  "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-26T13:07:52+00:00",
+      "title": "coronasafe/care_fe#7609",
+      "link": "https://github.com/coronasafe/care_fe/pull/7609#pullrequestreview-2141769022",
+      "text": "Fix Notifications for Facility Cover Image Deletion "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
