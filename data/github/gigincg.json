@@ -1,0 +1,23 @@
+{
+  "last_updated": "2024-06-27T13:50:00+00:00",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#8091",
+      "time": "2024-06-27T13:50:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/8091",
+      "text": "Allow Configuration of Meta Description and update the default"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6670",
+      "title": "Add Medispeak for Preview on Care",
+      "stale_for": 198,
+      "labels": [
+        "In Progress"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

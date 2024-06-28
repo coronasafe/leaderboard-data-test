@@ -8,17 +8,10 @@
       "link": "https://github.com/coronasafe/care/pull/2281",
       "text": "Merge Develop To Staging v24.27.0",
       "collaborated_with": [
-        "vigneshhari",
+        "sainak",
         "khavinshankar",
         "Ashesh3"
       ]
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2024-06-26T17:53:09+00:00",
-      "title": "coronasafe/care#2260",
-      "link": "https://github.com/coronasafe/care/pull/2260#pullrequestreview-2142589073",
-      "text": "Fixed N+1 query occurrence in the /api/v1/facility/"
     }
   ],
   "open_prs": [],
