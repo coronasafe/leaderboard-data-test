@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-06-26T16:28:25+00:00",
+  "last_updated": "2024-06-28T06:00:14+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-28T06:00:14+00:00",
+      "title": "coronasafe/leaderboard#458",
+      "link": "https://github.com/coronasafe/leaderboard/pull/458#pullrequestreview-2147121515",
+      "text": "GSoC_Week1_Refactor Github Scrapper "
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-06-26T16:28:25+00:00",
@@ -9,56 +16,6 @@
       "text": "GSoC_Week1_Refactor Github Scrapper "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/458",
-      "title": "GSoC_Week1_Refactor Github Scrapper ",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/428",
-      "title": "Track commit directly to branch without pr",
-      "stale_for": 59,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/427",
-      "title": "Filter feeds",
-      "stale_for": 54,
-      "labels": [
-        "changes required"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/433",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/434"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/400",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/402"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/399",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/401"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/292",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/314"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/273"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/237",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/241"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/234",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/236"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }
