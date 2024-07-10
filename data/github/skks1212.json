@@ -1,6 +1,35 @@
 {
-  "last_updated": "2024-07-07T19:24:56+00:00",
+  "last_updated": "2024-07-09T17:22:09+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7975",
+      "time": "2024-07-09T17:22:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7975",
+      "text": "Updated ABHA popup UI",
+      "turnaround_time": 11554
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-09T16:34:29+00:00",
+      "title": "coronasafe/care#2297",
+      "link": "https://github.com/coronasafe/care/pull/2297#pullrequestreview-2166865884",
+      "text": "Prevent N+1 queries in Encounter Symptoms ViewSet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-09T16:32:40+00:00",
+      "title": "coronasafe/leaderboard#462",
+      "link": "https://github.com/coronasafe/leaderboard/pull/462#pullrequestreview-2166862046",
+      "text": "Adds sitemap generation for main pages and contributor profiles"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2298",
+      "time": "2024-07-09T12:38:25+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2298",
+      "text": "Added actively dying patient category"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#8119",
@@ -139,15 +168,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/2298",
+      "title": "Added actively dying patient category",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/8119",
       "title": "Log update v2",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/8003",
       "title": "Added consent indicators and filters",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "needs review",
         "tested",
@@ -158,24 +193,15 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2255",
       "title": "Return files with consent lists and consent filters",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": [
         "P1"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7975",
-      "title": "Updated ABHA popup UI",
-      "stale_for": 5,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7970",
       "title": "Added patient category descriptions for ICU bed patients",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "needs review"
@@ -184,7 +210,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7933",
       "title": "Reenabled discharge patient admitted to filter",
-      "stale_for": 19,
+      "stale_for": 21,
       "labels": [
         "needs review",
         "tested",
@@ -194,19 +220,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2204",
       "title": "Adds functionality for `last_consultation_admitted_bed_type_list` in discharge patient filters",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/docs/pull/26",
       "title": "New Consent Restructure Proposal",
-      "stale_for": 39,
+      "stale_for": 41,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7772",
       "title": "Added facility hubs",
-      "stale_for": 24,
+      "stale_for": 26,
       "labels": [
         "hold",
         "needs review",
@@ -216,7 +242,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2135",
       "title": "Added Facility Hubs",
-      "stale_for": 47,
+      "stale_for": 49,
       "labels": []
     }
   ],
