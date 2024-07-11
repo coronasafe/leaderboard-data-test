@@ -1,6 +1,76 @@
 {
-  "last_updated": "2024-07-09T15:58:00+00:00",
+  "last_updated": "2024-07-10T10:19:10+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T10:19:10+00:00",
+      "title": "coronasafe/care#2104",
+      "link": "https://github.com/coronasafe/care/pull/2104#pullrequestreview-2168668160",
+      "text": "added tests for beds endpoints"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T10:16:23+00:00",
+      "title": "coronasafe/care#2190",
+      "link": "https://github.com/coronasafe/care/pull/2190#pullrequestreview-2168659080",
+      "text": "Add new medical history options "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T10:15:24+00:00",
+      "title": "coronasafe/care#2260",
+      "link": "https://github.com/coronasafe/care/pull/2260#pullrequestreview-2168657177",
+      "text": "Fixed N+1 query occurrence in the /api/v1/facility/"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T10:02:15+00:00",
+      "title": "coronasafe/care#2252",
+      "link": "https://github.com/coronasafe/care/pull/2252#pullrequestreview-2168628275",
+      "text": "Disallow read only users from performing writes to asset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T10:00:40+00:00",
+      "title": "coronasafe/care#2223",
+      "link": "https://github.com/coronasafe/care/pull/2223#pullrequestreview-2168619729",
+      "text": "migrating feature field  to array field "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T10:00:40+00:00",
+      "title": "coronasafe/care#2223",
+      "link": "https://github.com/coronasafe/care/pull/2223#pullrequestreview-2168619729",
+      "text": "migrating feature field  to array field "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T09:50:11+00:00",
+      "title": "coronasafe/care#2132",
+      "link": "https://github.com/coronasafe/care/pull/2132#pullrequestreview-2168601709",
+      "text": "PDF Generation Alternative - GSoC"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T09:49:32+00:00",
+      "title": "coronasafe/care#2298",
+      "link": "https://github.com/coronasafe/care/pull/2298#pullrequestreview-2168600287",
+      "text": "Added actively dying patient category"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T09:47:11+00:00",
+      "title": "coronasafe/care#2297",
+      "link": "https://github.com/coronasafe/care/pull/2297#pullrequestreview-2168595042",
+      "text": "Prevent N+1 queries in Encounter Symptoms ViewSet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-10T09:40:31+00:00",
+      "title": "coronasafe/care#2255",
+      "link": "https://github.com/coronasafe/care/pull/2255#pullrequestreview-2168580335",
+      "text": "Return files with consent lists and consent filters"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-07-09T15:58:00+00:00",
@@ -261,7 +331,67 @@
       "text": "Fixed N+1 query occurrence in the /api/v1/facility/"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/2299",
+      "title": "Fix race condition in consultation creation",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2288",
+      "title": "Add taken at field for patient consultation events",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2287",
+      "title": "Update dependencies",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2217",
+      "title": "remove deprecated symptoms fields",
+      "stale_for": 38,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_scribe/pull/9",
+      "title": "Use translation API to generate text for the prompt",
+      "stale_for": 42,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/citizen/pull/44",
+      "title": "Quick changes to get the app running again",
+      "stale_for": 115,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6457",
+      "title": "add support for webrtc stream",
+      "stale_for": 227,
+      "labels": [
+        "blocked",
+        "changes required",
+        "merge conflict",
+        "cypress failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1559",
+      "title": "feat: use ruff",
+      "stale_for": 56,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/medibase/pull/7",
+      "title": "Update dependencies",
+      "stale_for": 356,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care/issues/2235",

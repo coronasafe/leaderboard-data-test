@@ -1,6 +1,26 @@
 {
-  "last_updated": "2024-07-09T17:22:09+00:00",
+  "last_updated": "2024-07-10T09:17:18+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#8134",
+      "time": "2024-07-10T09:17:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/8134",
+      "text": "Get scribe to fill in all fields in daily rounds"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#8132",
+      "time": "2024-07-10T07:45:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/8132",
+      "text": "Merge Develop To Staging v24.29.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "cu8code",
+        "Dev-Harwani",
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7975",
@@ -176,13 +196,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/8119",
       "title": "Log update v2",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/8003",
       "title": "Added consent indicators and filters",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs review",
         "tested",
@@ -193,7 +213,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2255",
       "title": "Return files with consent lists and consent filters",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "P1"
       ]
@@ -204,13 +224,14 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "waiting for backend"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7933",
       "title": "Reenabled discharge patient admitted to filter",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "needs review",
         "tested",
@@ -220,19 +241,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2204",
       "title": "Adds functionality for `last_consultation_admitted_bed_type_list` in discharge patient filters",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/docs/pull/26",
       "title": "New Consent Restructure Proposal",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7772",
       "title": "Added facility hubs",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "hold",
         "needs review",
@@ -242,7 +263,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2135",
       "title": "Added Facility Hubs",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": []
     }
   ],
