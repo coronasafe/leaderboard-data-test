@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-07-10T09:17:18+00:00",
+  "last_updated": "2024-07-11T11:40:27+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-11T11:40:27+00:00",
+      "title": "coronasafe/care#2247",
+      "link": "https://github.com/coronasafe/care/pull/2247#pullrequestreview-2171654202",
+      "text": "remove deprecated fields that has been migrated to new models (Diagnosis and Prescriptions)"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#8134",
@@ -190,19 +197,21 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2298",
       "title": "Added actively dying patient category",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/8119",
       "title": "Log update v2",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "merge conflict"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/8003",
       "title": "Added consent indicators and filters",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs review",
         "tested",
@@ -221,7 +230,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7970",
       "title": "Added patient category descriptions for ICU bed patients",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
@@ -231,7 +240,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7933",
       "title": "Reenabled discharge patient admitted to filter",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "needs review",
         "tested",
@@ -241,29 +250,30 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2204",
       "title": "Adds functionality for `last_consultation_admitted_bed_type_list` in discharge patient filters",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/docs/pull/26",
       "title": "New Consent Restructure Proposal",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7772",
       "title": "Added facility hubs",
-      "stale_for": 27,
+      "stale_for": 0,
       "labels": [
         "hold",
         "needs review",
-        "waiting for backend"
+        "waiting for backend",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/2135",
       "title": "Added Facility Hubs",
-      "stale_for": 50,
+      "stale_for": 51,
       "labels": []
     }
   ],
