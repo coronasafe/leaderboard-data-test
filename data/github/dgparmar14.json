@@ -1,6 +1,31 @@
 {
-  "last_updated": "2024-07-02T09:57:29+00:00",
+  "last_updated": "2024-07-12T10:12:01+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#458",
+      "time": "2024-07-12T10:12:01+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/458",
+      "text": "Refactor Github Scraper Python to TypeScript (GSoC 2024 Mid-Term Evaluation)",
+      "turnaround_time": 17215
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#458",
+      "time": "2024-07-12T10:12:01+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/458",
+      "text": "Refactor Github Scraper Python to TypeScript (GSoC 2024 Mid-Term Evaluation)",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#463",
+      "time": "2024-07-12T09:14:29+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#458",
@@ -23,56 +48,6 @@
       "text": "GSoC_Week1_Refactor Github Scrapper "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/458",
-      "title": "Refactor Github Scraper Python to TypeScript (GSoC 2024 Mid-Term Evaluation)",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/428",
-      "title": "Track commit directly to branch without pr",
-      "stale_for": 64,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/427",
-      "title": "Filter feeds",
-      "stale_for": 60,
-      "labels": [
-        "changes required"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/433",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/434"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/400",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/402"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/399",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/401"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/292",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/314"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/273"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/237",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/241"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/234",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/236"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

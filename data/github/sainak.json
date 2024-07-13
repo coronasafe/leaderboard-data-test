@@ -1,6 +1,51 @@
 {
-  "last_updated": "2024-07-10T10:19:10+00:00",
+  "last_updated": "2024-07-12T15:16:06+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-12T15:16:06+00:00",
+      "title": "coronasafe/care#2295",
+      "link": "https://github.com/coronasafe/care/pull/2295#pullrequestreview-2175153882",
+      "text": "GSoC - Doctor Notes Enhancement "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-12T15:16:06+00:00",
+      "title": "coronasafe/care#2295",
+      "link": "https://github.com/coronasafe/care/pull/2295#pullrequestreview-2175153882",
+      "text": "GSoC - Doctor Notes Enhancement "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#2301",
+      "time": "2024-07-12T15:01:31+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2301",
+      "text": "Create db backup scripts for instances running on pure docker"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2104",
+      "time": "2024-07-12T14:44:51+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2104",
+      "text": "added tests for beds endpoints",
+      "collaborated_with": [
+        "DraKen0009"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-12T07:29:58+00:00",
+      "title": "coronasafe/teleicu_middleware_backend#1",
+      "link": "https://github.com/coronasafe/teleicu_middleware_backend/pull/1#pullrequestreview-2174065540",
+      "text": "Middleware Initial code"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-12T07:29:58+00:00",
+      "title": "coronasafe/teleicu_middleware_backend#1",
+      "link": "https://github.com/coronasafe/teleicu_middleware_backend/pull/1#pullrequestreview-2174065540",
+      "text": "Middleware Initial code"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-07-10T10:19:10+00:00",
@@ -335,43 +380,43 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2299",
       "title": "Fix race condition in consultation creation",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/2288",
       "title": "Add taken at field for patient consultation events",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/2287",
       "title": "Update dependencies",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/2217",
       "title": "remove deprecated symptoms fields",
-      "stale_for": 38,
+      "stale_for": 40,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_scribe/pull/9",
       "title": "Use translation API to generate text for the prompt",
-      "stale_for": 42,
+      "stale_for": 44,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/citizen/pull/44",
       "title": "Quick changes to get the app running again",
-      "stale_for": 115,
+      "stale_for": 117,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 227,
+      "stale_for": 229,
       "labels": [
         "blocked",
         "changes required",
@@ -382,13 +427,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 56,
+      "stale_for": 58,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 356,
+      "stale_for": 358,
       "labels": []
     }
   ],
