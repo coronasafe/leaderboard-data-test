@@ -1,6 +1,45 @@
 {
-  "last_updated": "2024-07-12T14:32:37+00:00",
+  "last_updated": "2024-07-13T14:05:10+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2293",
+      "time": "2024-07-13T14:05:10+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2293",
+      "text": "Block expired patients from being transfered",
+      "turnaround_time": 14907
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2293",
+      "time": "2024-07-13T14:05:10+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2293",
+      "text": "Block expired patients from being transfered",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-13T07:26:31+00:00",
+      "title": "coronasafe/care_fe#8147",
+      "link": "https://github.com/coronasafe/care_fe/pull/8147#pullrequestreview-2176185444",
+      "text": "Merge Develop to staging v24.29.0 | Fixing priority issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#8143",
+      "time": "2024-07-13T07:16:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/8143",
+      "text": "Patient discharge with reason expired not working."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-13T07:15:54+00:00",
+      "title": "coronasafe/care_fe#8146",
+      "link": "https://github.com/coronasafe/care_fe/pull/8146#pullrequestreview-2176184371",
+      "text": "Fixes discharge form resetting"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-07-12T14:32:37+00:00",
@@ -441,15 +480,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/2293",
-      "title": "Block expired patients from being transfered",
-      "stale_for": 3,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/8123",
       "title": "Block expired patients from being transfered",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "tested",
         "P1",
@@ -460,7 +493,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/8010",
       "title": "Fixed a type error in Autocomplete",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "good to merge",
         "changes required",
@@ -472,13 +505,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2222",
       "title": "limit user details based on user type",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7840",
       "title": "Migrate to Headless UI v2",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs review",
         "dependencies",
@@ -490,7 +523,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7817",
       "title": "Frontend Adjustments for ABDM Plug Conversion",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs review",
         "tested",
@@ -501,7 +534,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2161",
       "title": "Convert ABDM into Plug - Part 1/2",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "ABDM"
       ]
@@ -509,19 +542,19 @@
     {
       "link": "https://github.com/coronasafe/zoomdrive/pull/22",
       "title": "Zoom Drive V2",
-      "stale_for": 67,
+      "stale_for": 68,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/docs/pull/20",
       "title": "Added ABDM-CARE Integration Docs",
-      "stale_for": 90,
+      "stale_for": 91,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 116,
+      "stale_for": 117,
       "labels": [
         "waiting-for-review"
       ]
@@ -529,31 +562,31 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 229,
+      "stale_for": 230,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 938,
+      "stale_for": 939,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 944,
+      "stale_for": 945,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 945,
+      "stale_for": 946,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 1140,
+      "stale_for": 1141,
       "labels": []
     }
   ],
