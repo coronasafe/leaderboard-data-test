@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-07-12T15:16:06+00:00",
+  "last_updated": "2024-07-15T04:26:59+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-15T04:26:59+00:00",
+      "title": "coronasafe/care#2303",
+      "link": "https://github.com/coronasafe/care/pull/2303#pullrequestreview-2176838287",
+      "text": "Merge migrations"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-07-12T15:16:06+00:00",
@@ -380,43 +387,43 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2299",
       "title": "Fix race condition in consultation creation",
-      "stale_for": 3,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/2288",
       "title": "Add taken at field for patient consultation events",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/2287",
       "title": "Update dependencies",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/2217",
       "title": "remove deprecated symptoms fields",
-      "stale_for": 40,
+      "stale_for": 43,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_scribe/pull/9",
       "title": "Use translation API to generate text for the prompt",
-      "stale_for": 44,
+      "stale_for": 47,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/citizen/pull/44",
       "title": "Quick changes to get the app running again",
-      "stale_for": 117,
+      "stale_for": 120,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 229,
+      "stale_for": 232,
       "labels": [
         "blocked",
         "changes required",
@@ -427,13 +434,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 58,
+      "stale_for": 61,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 358,
+      "stale_for": 361,
       "labels": []
     }
   ],
