@@ -1,6 +1,34 @@
 {
-  "last_updated": "2024-07-17T16:41:51+00:00",
+  "last_updated": "2024-07-18T12:11:02+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-18T12:11:02+00:00",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2185633456",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-18T11:51:47+00:00",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2185597143",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-18T11:45:08+00:00",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2185584900",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-18T09:23:26+00:00",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2185222716",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-07-17T16:41:51+00:00",
