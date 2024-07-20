@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-07-17T17:01:57+00:00",
+  "last_updated": "2024-07-19T06:26:12+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#8178",
+      "time": "2024-07-19T06:26:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/8178",
+      "text": "Hcx communication"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#8177",
+      "time": "2024-07-19T05:04:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/8177",
+      "text": "Enable hcx"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2308",
@@ -616,6 +630,158 @@
       "text": "New profile picture feature "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/8178",
+      "title": "Hcx communication",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/8177",
+      "title": "Enable hcx",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2222",
+      "title": "limit user details based on user type",
+      "stale_for": 44,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7840",
+      "title": "Migrate to Headless UI v2",
+      "stale_for": 11,
+      "labels": [
+        "needs review",
+        "dependencies",
+        "merge conflict",
+        "stale",
+        "cypress failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7817",
+      "title": "Frontend Adjustments for ABDM Plug Conversion",
+      "stale_for": 4,
+      "labels": [
+        "needs review",
+        "tested",
+        "waiting for backend",
+        "ABDM"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2161",
+      "title": "Convert ABDM into Plug - Part 1/2",
+      "stale_for": 11,
+      "labels": [
+        "ABDM"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/zoomdrive/pull/22",
+      "title": "Zoom Drive V2",
+      "stale_for": 74,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/docs/pull/20",
+      "title": "Added ABDM-CARE Integration Docs",
+      "stale_for": 97,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1229",
+      "title": "Hcx Refactors",
+      "stale_for": 123,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
+      "title": "Hcx/eligibility check workflow",
+      "stale_for": 236,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/143",
+      "title": "added browser confirmation for uncheduling in Agenda",
+      "stale_for": 945,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/141",
+      "title": "Added search bar in Patients",
+      "stale_for": 951,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/140",
+      "title": "Refactored Patients from ruby-html to rescript-react",
+      "stale_for": 952,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/life/pull/306",
+      "title": "filtered duplicate tweets",
+      "stale_for": 1147,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7563",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7564"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1849",
+      "pr_link": "https://github.com/coronasafe/care/pull/1861"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1849",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7114"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6545",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6547"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/102",
+      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/103"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6117",
+      "pr_link": "https://github.com/coronasafe/care/pull/1550"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6117",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6136"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1407",
+      "pr_link": "https://github.com/coronasafe/care/pull/1408"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5772",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5882"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5699",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5700"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5518",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5519"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5368",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5369"
+    }
+  ]
 }
