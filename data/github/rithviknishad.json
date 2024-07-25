@@ -1,6 +1,140 @@
 {
-  "last_updated": "2024-07-24T13:44:57+00:00",
+  "last_updated": "2024-07-23T16:27:44.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2321",
+      "time": "2024-07-23T16:27:44.000Z",
+      "link": "https://github.com/coronasafe/care/pull/2321",
+      "text": "HCX: Adds \"use\" in patient profile's telecom"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#8205",
+      "time": "2024-07-23T13:10:55.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8205",
+      "text": "Production Release v20.30.1; Hotfix",
+      "collaborated_with": [
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#8205",
+      "time": "2024-07-23T13:06:53.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8205",
+      "text": "Production Release; Hotfix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#8204",
+      "time": "2024-07-23T13:05:21.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8204",
+      "text": "Hide no consent record badges in patient list page (#8201)"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#8201",
+      "time": "2024-07-23T13:04:33.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8201",
+      "text": "Hide no consent record badges in patient list page",
+      "collaborated_with": [
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#8201",
+      "time": "2024-07-23T12:31:47.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8201",
+      "text": "Hide no consent record badges in patient list page and consultation dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2320",
+      "time": "2024-07-23T11:50:16.000Z",
+      "link": "https://github.com/coronasafe/care/pull/2320",
+      "text": "Update pre-commit config"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T11:34:18.000Z",
+      "title": "coronasafe/care_fe#8199",
+      "link": "https://github.com/coronasafe/care_fe/pull/8199#pullrequestreview-2193716650",
+      "text": "Handle exceptions raised by the addSourceBuffer method"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T11:34:05.000Z",
+      "title": "coronasafe/care_fe#8199",
+      "link": "https://github.com/coronasafe/care_fe/pull/8199#pullrequestreview-2193716197",
+      "text": "Handle exceptions raised by the addSourceBuffer method"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2319",
+      "time": "2024-07-23T11:05:46.000Z",
+      "link": "https://github.com/coronasafe/care/pull/2319",
+      "text": "Adds support for phone number in HCX Create Patient Profile"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T05:02:35.000Z",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2192980747",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T05:01:37.000Z",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2192979851",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T04:42:46.000Z",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2192962337",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T04:27:01.000Z",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2192949465",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T04:22:04.000Z",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2192945540",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T04:21:09.000Z",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2192943533",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T04:17:39.000Z",
+      "title": "coronasafe/leaderboard#463",
+      "link": "https://github.com/coronasafe/leaderboard/pull/463#pullrequestreview-2192942129",
+      "text": "GSoC 2024: GitHub Discussion UI at Home,  Discussion and Contributor's route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T03:56:21.000Z",
+      "title": "coronasafe/care_fe#8188",
+      "link": "https://github.com/coronasafe/care_fe/pull/8188#pullrequestreview-2192913354",
+      "text": "Added primary color to selected section on consultation page fix #8186"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2322",

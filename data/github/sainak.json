@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-07-24T13:44:57+00:00",
+  "last_updated": "2024-07-23T11:26:34.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#8199",
+      "time": "2024-07-23T11:26:34.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8199",
+      "text": "Handle exceptions raised by the addSourceBuffer method"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T11:09:10.000Z",
+      "title": "coronasafe/care#2319",
+      "link": "https://github.com/coronasafe/care/pull/2319#pullrequestreview-2193669392",
+      "text": "Adds support for phone number in HCX Create Patient Profile"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2322",
@@ -513,7 +527,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/8199",
       "title": "Handle exceptions raised by the addSourceBuffer method",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -531,13 +545,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2288",
       "title": "Add taken at field for patient consultation events",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/2287",
       "title": "Update dependencies",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {

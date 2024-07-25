@@ -1,6 +1,89 @@
 {
-  "last_updated": "2024-07-24T13:43:33+00:00",
+  "last_updated": "2024-07-23T16:33:53.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2321",
+      "time": "2024-07-23T16:33:53.000Z",
+      "link": "https://github.com/coronasafe/care/pull/2321",
+      "text": "HCX: Adds \"use\" in patient profile's telecom",
+      "turnaround_time": 369
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T16:33:42.000Z",
+      "title": "coronasafe/care#2321",
+      "link": "https://github.com/coronasafe/care/pull/2321#pullrequestreview-2194493228",
+      "text": "HCX: Adds \"use\" in patient profile's telecom"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#8205",
+      "time": "2024-07-23T13:10:55.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8205",
+      "text": "Production Release v20.30.1; Hotfix",
+      "turnaround_time": 242
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#8205",
+      "time": "2024-07-23T13:10:55.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8205",
+      "text": "Production Release v20.30.1; Hotfix",
+      "collaborated_with": [
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#8204",
+      "time": "2024-07-23T13:06:13.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8204",
+      "text": "Hide no consent record badges in patient list page (#8201)",
+      "turnaround_time": 53
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#8201",
+      "time": "2024-07-23T13:04:33.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8201",
+      "text": "Hide no consent record badges in patient list page",
+      "turnaround_time": 1966
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#8201",
+      "time": "2024-07-23T13:04:33.000Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/8201",
+      "text": "Hide no consent record badges in patient list page",
+      "collaborated_with": [
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T13:04:06.000Z",
+      "title": "coronasafe/care_fe#8201",
+      "link": "https://github.com/coronasafe/care_fe/pull/8201#pullrequestreview-2193931500",
+      "text": "Hide no consent record badges in patient list page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2319",
+      "time": "2024-07-23T11:17:33.000Z",
+      "link": "https://github.com/coronasafe/care/pull/2319",
+      "text": "Adds support for phone number in HCX Create Patient Profile",
+      "turnaround_time": 707
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-23T11:17:23.000Z",
+      "title": "coronasafe/care#2319",
+      "link": "https://github.com/coronasafe/care/pull/2319#pullrequestreview-2193685331",
+      "text": "Adds support for phone number in HCX Create Patient Profile"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7999",

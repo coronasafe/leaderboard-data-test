@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-07-23T15:10:30+00:00",
+  "last_updated": "2024-07-23T15:10:30.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2190",
+      "time": "2024-07-23T15:10:30.000Z",
+      "link": "https://github.com/coronasafe/care/pull/2190#issuecomment-2245519006",
+      "text": "@rithviknishad the codecov check says it failed \r\n\r\nis it required to reach the required percentage ?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#2190",
@@ -27,13 +34,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2190",
       "title": "Add new medical history options ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7852",
       "title": "Expanding medical history [ Comorbidities ]",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "needs review",
         "tested",
