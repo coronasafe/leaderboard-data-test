@@ -11,7 +11,7 @@ on:
 
 jobs:
   run-scraper:
-    uses: coronasafe/leaderboard/.github/workflows/scraper.yaml@main
+    uses: coronasafe/leaderboard/.github/workflows/scraper.yaml@gsoc/gh-discussions
     if: github.ref == 'refs/heads/main'
     permissions:
       issues: read
